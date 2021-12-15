@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1564923811 source:d:\c++ gui programs code blocks\random number generater\main.cpp
+	<windows.h>
+	"randnum.h"
+
+1564900024 d:\c++ gui programs code blocks\random number generater\include\randnum.h
+	<iostream>
+
+1564900366 source:d:\c++ gui programs code blocks\random number generater\src\randnum.cpp
+	"randnum.h"
+	<ctime>
+	<cstdlib>
+
+1564900366 source:d:\c++ gui programs code blocks\test\src\randnum.cpp
+	"randnum.h"
+	<ctime>
+	<cstdlib>
+
+1564900024 d:\c++ gui programs code blocks\test\include\randnum.h
+	<iostream>
+
+1564919386 source:d:\c++ gui programs code blocks\test\main.cpp
+	<windows.h>
+	"randnum.h"
+
+1564900366 source:d:\c++ gui programs\random number generator\version 1.0\src\randnum.cpp
+	"randnum.h"
+	<ctime>
+	<cstdlib>
+
+1564900024 d:\c++ gui programs\random number generator\version 1.0\include\randnum.h
+	<iostream>
+
+1566041342 source:d:\c++ gui programs\random number generator\version 1.0\main.cpp
+	<windows.h>
+	"randnum.h"
+
